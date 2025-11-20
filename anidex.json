@@ -1,8 +1,6 @@
-[
-  {
-    "id": "anidex",
-    "name": "Anidex Extension",
-    "version": "1.0.0",
-    "entry": "https://raw.githubusercontent.com/miru-project/extensions/master/anidex/index.mjs"
-  }
-]
+{
+  "id": "anidex",
+  "name": "Anidex Extension",
+  "version": "1.0.0",
+  "entry": "https://raw.githubusercontent.com/miru-project/extensions/master/anidex/index.mjs"
+}
